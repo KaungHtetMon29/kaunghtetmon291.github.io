@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(104, 132, 255);
+}
+/* .navg{
+    background-color: rgb(230, 230, 230);
+} */
+.btnlog {
+  border-radius: 1000px;
+  width: 100px;
+  color: rgb(104, 132, 255);
+  border-color: rgb(104, 132, 255);
+}
+.btnlog:hover {
+  background-color: rgb(104, 132, 255);
+}
+.btnsign {
+  border-radius: 1000px;
+  width: 100px;
+  color: rgb(0, 0, 0);
+}
+#hov {
+  color: black;
+  font-size: larger;
+}
+#hov:hover {
+  color: rgb(104, 132, 255);
+}
+.ts {
+  color: white;
+}
+.paras {
+  font-size: 110%;
+  line-height: 110%;
+  font-weight: 1;
+}
+ .para1{
+    display: flexbox;
+    line-height: 200%;
+}
+.bd{
+    margin-bottom: 5rem;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.bdy2 {
+  background-color: rgb(255, 255, 255);
+  
+}
+.rec {
+  border-radius: 20px;
+}
+.oam{
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.para2 {
+    color: black;
+
+}
+.navlist{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.card{
+  background-color: rgb(104, 132, 255);
+  color: white;
+}
+.imgsize{
+  margin:auto;
+}
